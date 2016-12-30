@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Contact Us</title>
+<link rel="stylesheet" type="text/css" href="PPCSSFile.css">
+</head>
+<body>
+
+<div class="container">
+  <form id="contact" action="" method="post">
+    <h3>Contact Now</h3>
+    <h4>Contact us with any questions, and we'll get back to you quickly!</h4>
+    Name:
+    <br><input = textbox "name"><br>
+    Email Address:
+    <br><input = textbox "email"><br>
+    Phone Number:
+   <br><input = textbox "number"><br>
+    Question or Comment:
+    <br><input = textfield "comment">
+  </form>
+
+
+</div>
+</body>
+</html>

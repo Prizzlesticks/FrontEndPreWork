@@ -1,0 +1,58 @@
+<html>
+<head>
+
+<meta charset="UTF-8">
+<title>The NES Classic</title>
+</head>
+<body>
+
+<h1 class = "center"> Robert L Prill </h1>
+
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrVSDwaxQS2rj2D34Y6sIcVRJCSdyxobTsHbZ-XgM-EgWViHki" style="Hight=50px"; "width=50px"; >
+
+<img src=
+"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8IUMt7AIZOfAwzNwynvrkgJNBeHtqMVEADmrzlG0D52HvRlov">
+
+<img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3ax0MYm_AjY9skgXG-u658RJePn1QZzADMThMvL3jB9SeRC3"</center>
+
+ <br> <q>The NES Classic was one of the most hunted gifts of 2016, would sell out near instantly upon hitting a stores shelves. Even after Christmas the systems are still istantly being purchase upon the public knowing of their existence.</q>
+
+  <h2>Included Games on the NES Classic</h2>
+  <ol type = "1", class = "center";>
+<li>Balloon Fight</li>
+<li>Bubble Bobble</li>
+<li>Castlevania</li>
+<li>Castlevania II: Simon's Quest</li>
+<li>Donkey Kong</li>
+<li>Donkey Kong Jr.</li>
+<li>Double Dragon II: The Revenge</li>
+<li>Dr. Mario</li>
+<li>Excitebike</li>
+<li>Final Fantasy</li>
+<li>Galaga</li>
+<li>Ghosts'n Goblins</li>
+<li>Gradius</li>
+<li>Ice Climber</li>
+<li>Kid Icarus</li>
+<li>Kirby's Adventure</li>
+<li>Mario Bros.</li>
+<li>Mega Man 2</li>
+<li>Metroid</li>
+<li>Ninja Gaiden</li>
+<li>Pac-Man</li>
+<li>Punch-Out! Featuring Mr. Dream</li>
+<li>StarTropics</li>
+<li>Super C</li>
+<li>Super Mario Bros.</li>
+<li>Super Mario Bros. 2</li>
+<li>Super Mario Bros. 3</li>
+<li>Tecmo Bowl</li>
+<li>The Legend of Zelda</li>
+<li>Zelda II: The Adventure of Link</li>
+  </ol>
+
+  <p class="center", text face ="starwars"> LINKS FOR OTHER PAGES:</p>
+  <a href="http://codepen.io/Prizzlesticks/pen/NbQGQr"> about</a>
+
+</body>
+</html>
